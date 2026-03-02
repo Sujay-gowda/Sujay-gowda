@@ -18,7 +18,7 @@ Understanding databases and system design basics
 🛠️ Tech Stack
 
 Languages:
-C, C++, JavaScript
+C, C++, JavaScript, Python
 
 Frontend:
 HTML, CSS, React.js
