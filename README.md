@@ -18,7 +18,10 @@ Understanding databases and system design basics
 🛠️ Tech Stack
 
 Languages:
-C, C++, JavaScript, Python
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
+
 
 Frontend:
 HTML, CSS, React.js
