@@ -24,13 +24,22 @@ Languages:
 
 
 Frontend:
-HTML, CSS, React.js
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 Backend:
-Node.js, Express.js
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 
 Database:
-PostgreSQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
 
 # Goals
 
